@@ -3,7 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { TestIOSComponent } from './test-ios/test-ios.component';
 
 const routes: Routes = [
-  { path: 'test-IOS', component: TestIOSComponent },
+  { path: 'ios', component: TestIOSComponent },
 ];
 
 @NgModule({
